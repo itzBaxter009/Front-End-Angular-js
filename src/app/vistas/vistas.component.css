@@ -1,0 +1,14 @@
+.menu{
+    display: flex;
+    justify-content: space-around;     
+}
+.opcionMenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 8vh;
+    border-color: #FFEA11;
+    border-width: 2px;
+    border-style: solid;
+}
